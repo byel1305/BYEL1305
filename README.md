@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou trabalhando como estagiário para a Prefeitura de Esmeraldas/ MG
 - 📫 Contact: gabryeljuniogj@gmail.com
 - 🌱 Estudando JavaScript
-- 😄 Pronomes: ele/dele
 - "Não importa o quão difícil ou impossível seja, nunca perca de vista o seu objetivo." - Monkey D. Luffy
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
